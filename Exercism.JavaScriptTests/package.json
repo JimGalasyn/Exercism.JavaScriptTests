@@ -1,0 +1,12 @@
+{
+  "name": "exercism.java-script-tests",
+  "version": "0.0.0",
+  "description": "Exercism.JavaScriptTests",
+  "main": "app.js",
+  "author": {
+    "name": "Jim"
+  },
+  "dependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
